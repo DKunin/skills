@@ -1,0 +1,7 @@
+interface:
+  display_name: "Bruno Collection Builder"
+  short_description: "Scaffold and edit Bruno API collections."
+  default_prompt: "Use $bruno-collection-builder to create a Bruno collection from this API description."
+
+policy:
+  allow_implicit_invocation: true

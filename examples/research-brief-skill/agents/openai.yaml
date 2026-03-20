@@ -1,0 +1,7 @@
+interface:
+  display_name: "Research Brief"
+  short_description: "Turn messy notes into concise research briefs."
+  default_prompt: "Use $research-brief-skill to turn these notes into a concise research brief."
+
+policy:
+  allow_implicit_invocation: true
