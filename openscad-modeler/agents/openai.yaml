@@ -1,0 +1,7 @@
+interface:
+  display_name: "OpenScad Modeller"
+  short_description: "Edit openscad files."
+  default_prompt: "Use $openscad-modeler to create an openscad file, that renders a cube"
+
+policy:
+  allow_implicit_invocation: true
