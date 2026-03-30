@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tempermonkey"
+  short_description: "tempermonkey"
+  default_prompt: "Use $tempermonkey to complete this task."
+
+policy:
+  allow_implicit_invocation: true
