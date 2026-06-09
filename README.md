@@ -62,6 +62,10 @@ skill-name/
 - `scripts/new-skill.sh`: Bootstrap a new skill folder
 - `scripts/validate-skills.sh`: Validate basic repository conventions
 
+## Доступные навыки
+
+- `editorial-feedback`: приоритетный редакторский разбор текста по полноте, ясности, точности, устойчивости, доступности и соответствию цели.
+
 ## Quality Bar
 
 - Trigger descriptions are specific enough that the skill does not misfire.

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Editorial Feedback"
+  short_description: "Prioritized critique for draft text."
+  default_prompt: "Use $editorial-feedback to review this draft and return prioritized editorial feedback."
+
+policy:
+  allow_implicit_invocation: true
