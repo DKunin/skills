@@ -1,0 +1,7 @@
+interface:
+  display_name: "SPT Team Stats"
+  short_description: "Отчёт по SPT-багам команды с метриками, графиками и публикацией в Confluence."
+  default_prompt: "Use $spt-team-stats to collect team SPT bug statistics for the period and publish a Confluence report."
+
+policy:
+  allow_implicit_invocation: true
